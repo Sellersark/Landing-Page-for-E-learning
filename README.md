@@ -1,3 +1,3 @@
-# Education_Website_22-05-23
-Learn how to design a stunning and responsive education website landing page using HTML and CSS!
+# Landing page for E-learning
+Discover how to build an impressive and intuitive e-learning landing page using HTML, CSS, and JavaScript from the ground up!
 New change
